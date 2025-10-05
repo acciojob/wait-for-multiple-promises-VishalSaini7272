@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+body {
+  margin: 40px;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
